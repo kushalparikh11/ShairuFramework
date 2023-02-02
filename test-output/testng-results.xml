@@ -1,45 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-01T16:50:38 IST" name="Default suite" finished-at="2023-02-01T16:51:50 IST" duration-ms="71956">
+  <suite started-at="2023-02-02T16:03:29 IST" name="Default suite" finished-at="2023-02-02T16:03:39 IST" duration-ms="10548">
     <groups>
     </groups>
-    <test started-at="2023-02-01T16:50:38 IST" name="Default test" finished-at="2023-02-01T16:51:50 IST" duration-ms="71956">
-      <class name="com.qa.testcases.inwardlist.JobWorkRoughListPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.inwardlist.JobWorkRoughListPageTest@738dc9b]" started-at="2023-02-01T16:50:38 IST" name="setup" finished-at="2023-02-01T16:50:44 IST" duration-ms="6339" status="PASS">
+    <test started-at="2023-02-02T16:03:29 IST" name="Default test" finished-at="2023-02-02T16:03:39 IST" duration-ms="10548">
+      <class name="com.qa.testcases.inwardlist.JobWorkInspectionListPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.inwardlist.JobWorkInspectionListPageTest@1a6d8329]" started-at="2023-02-02T16:03:29 IST" name="setup" finished-at="2023-02-02T16:03:33 IST" duration-ms="4501" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Verify_Navigation()[pri:1, instance:com.qa.testcases.inwardlist.JobWorkRoughListPageTest@738dc9b]" started-at="2023-02-01T16:50:44 IST" name="Verify_Navigation" finished-at="2023-02-01T16:50:51 IST" duration-ms="6260" status="PASS">
+        <test-method signature="Verify_Navigation()[pri:1, instance:com.qa.testcases.inwardlist.JobWorkInspectionListPageTest@1a6d8329]" started-at="2023-02-02T16:03:33 IST" name="Verify_Navigation" finished-at="2023-02-02T16:03:39 IST" duration-ms="6003" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verify_Navigation -->
-        <test-method signature="Verify_inwardbutton_click()[pri:2, instance:com.qa.testcases.inwardlist.JobWorkRoughListPageTest@738dc9b]" started-at="2023-02-01T16:50:51 IST" name="Verify_inwardbutton_click" finished-at="2023-02-01T16:50:51 IST" duration-ms="123" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Verify_inwardbutton_click -->
-        <test-method signature="Verify_filldata_DocumentDeatils()[pri:3, instance:com.qa.testcases.inwardlist.JobWorkRoughListPageTest@738dc9b]" started-at="2023-02-01T16:50:51 IST" name="Verify_filldata_DocumentDeatils" finished-at="2023-02-01T16:51:23 IST" duration-ms="32612" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Verify_filldata_DocumentDeatils -->
-        <test-method signature="Verify_fill_data_KPCertificateDetails()[pri:4, instance:com.qa.testcases.inwardlist.JobWorkRoughListPageTest@738dc9b]" started-at="2023-02-01T16:51:23 IST" name="Verify_fill_data_KPCertificateDetails" finished-at="2023-02-01T16:51:29 IST" duration-ms="6028" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Verify_fill_data_KPCertificateDetails -->
-        <test-method signature="Verify_fill_data_BillEntryDetails()[pri:5, instance:com.qa.testcases.inwardlist.JobWorkRoughListPageTest@738dc9b]" started-at="2023-02-01T16:51:29 IST" name="Verify_fill_data_BillEntryDetails" finished-at="2023-02-01T16:51:32 IST" duration-ms="2224" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Verify_fill_data_BillEntryDetails -->
-        <test-method signature="Verify_fill_data_CorrespondingInvoice()[pri:6, instance:com.qa.testcases.inwardlist.JobWorkRoughListPageTest@738dc9b]" started-at="2023-02-01T16:51:32 IST" name="Verify_fill_data_CorrespondingInvoice" finished-at="2023-02-01T16:51:42 IST" duration-ms="10706" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Verify_fill_data_CorrespondingInvoice -->
-        <test-method signature="Verify_fill_data_MiningInformation()[pri:7, instance:com.qa.testcases.inwardlist.JobWorkRoughListPageTest@738dc9b]" started-at="2023-02-01T16:51:42 IST" name="Verify_fill_data_MiningInformation" finished-at="2023-02-01T16:51:50 IST" duration-ms="7615" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Verify_fill_data_MiningInformation -->
-      </class> <!-- com.qa.testcases.inwardlist.JobWorkRoughListPageTest -->
+      </class> <!-- com.qa.testcases.inwardlist.JobWorkInspectionListPageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -5,8 +5,12 @@
     <classes>
       <class name="com.qa.testcases.inwardlist.JobWorkRoughListPageTest">
         <methods>
+          <include name="Verify_fill_data_BillEntryDetails"/>
           <include name="setup"/>
+          <include name="Verify_fill_data_CorrespondingInvoice"/>
           <include name="Verify_fill_data_MiningInformation"/>
+          <include name="Verify_fill_data_KPCertificateDetails"/>
+          <include name="Verify_filldata_DocumentDeatils"/>
         </methods>
       </class> <!-- com.qa.testcases.inwardlist.JobWorkRoughListPageTest -->
     </classes>
